@@ -26,13 +26,6 @@ This notebook presents a simple time series forecasting project using the [Darts
 - Period: From `2020-01-01` to `2025-07-14`
 - Source: [Yahoo Finance](https://finance.yahoo.com/)
 
-## ⚙️ Project Structure
-📦 stock-market-nbeats-prediction
-├── 📘 notebook.ipynb
-├── 📊 graphs/
-│ ├── prediction_vs_actual.png
-│ └── denoised_series.png
-
 
 ## 🔧 Methodology
 
