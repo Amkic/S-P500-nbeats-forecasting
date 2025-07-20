@@ -41,7 +41,7 @@ This notebook presents a simple time series forecasting project using the [Darts
 
 ## 📉 Example Output
 
-![Forecast vs Actual](graphs/prediction_vs_actual.png)
+![Forecast vs Actual](graphs/Fig.png)
 
 ## 🧪 Metrics
 
